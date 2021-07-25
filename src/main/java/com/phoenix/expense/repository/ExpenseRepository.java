@@ -1,4 +1,4 @@
-package com.example.codeengine.expense.repository;
+package com.phoenix.expense.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import com.phoenix.expense.model.Expense;

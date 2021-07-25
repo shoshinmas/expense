@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.phoenix.expense.model.Category;
 import com.phoenix.expense.model.Expense;
-import com.example.codeengine.expense.repository.ExpenseRepository;
+import com.phoenix.expense.repository.ExpenseRepository;
 
 @RestController
 @RequestMapping("/api")
